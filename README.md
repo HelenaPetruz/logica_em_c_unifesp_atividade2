@@ -1,2 +1,2 @@
-# logica_em_c_unifesp_atividade2
+# LP: atividade 2 (linguagem c)
 Estruturas de Repetição
